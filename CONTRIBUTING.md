@@ -7,7 +7,7 @@
 ### Modifying the code
 First, ensure that you have the latest [Node.js](http://nodejs.org/) and [npm](http://npmjs.org/) installed.
 
-Test that gulp is installed globally by running `grunt -v` at the command-line.  If gulp isn't installed globally, run `npm install -g gulp` to install the latest version.
+Test that gulp is installed globally by running `gulp -v` at the command-line.  If gulp isn't installed globally, run `npm install -g gulp` to install the latest version.
 
 * Fork and clone the repo.
 * Run `npm install` and `bower install` to install all dev dependencies (including grunt).
